@@ -123,7 +123,13 @@ pnpm build
 
 
 ## ✍️ Authors 
-Created by: 
+Designteam:
+- [Angelica Nylander](https://github.com/angien90)
+- [David Brunni](https://github.com/DavidBrunni)
+- [Marie Lenvik](https://github.com/M-Lenvik)
+- [Vy Petersson](https://github.com/tgvie)
+
+Coded by: 
 - [Olivia Almseger ](https://github.com/oliviaalmseger) 	
 - [Moa Magnfors ](https://github.com/mainforce) 
 - [Nicole Sjöberg-Silfverling](https://github.com/nicolesilfverling) 
