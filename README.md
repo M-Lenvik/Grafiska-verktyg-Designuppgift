@@ -20,7 +20,7 @@ But when we inherited the Poison Dart Frogs’ repo, an identity crisis hit us�
 
 
 ## 🎥 Demo 
-[Click here to view the demo](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-pilgiftsgrodorna/)
+[Click here to view the demo](https://m-lenvik.github.io/Grafiska-verktyg-Designuppgift/)
   
 
 ## 📸 Screenshots 
