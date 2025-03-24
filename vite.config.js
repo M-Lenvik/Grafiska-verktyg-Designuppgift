@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: '/fed24d-grafiska-verktyg-pilgiftsgrodorna/',
+    base: '/Grafiska-verktyg-Designuppgift/',
     plugins: [vue()],
     resolve: {
         alias: {
