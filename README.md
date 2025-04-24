@@ -11,10 +11,9 @@
    2. [Installation](#️-installation)
    3. [Our Work Process](#-our-work-process)
    4. [Lighthouse analysis](#-lighthouse-analysis)
-5. [Authors](#-authors)
-6. [Credits](#-credits)
-8. [Grade](#grade)
-
+4. [Authors](#-authors)
+5. [Credits](#-credits)
+6. [Grade](#grade)
 
    
 # 🐸 Welcome to the World of Poison Dart Frogs 
@@ -160,5 +159,6 @@ Coded by:
 This project was developed as part of the curriculum at [Medieinstitutet](https://medieinstitutet.se/) during our first year of studies.
 
 ## ⭐️ Grade
-![Betyg Grafiska verktyg för gränssnittsdesign individuell uppgift](https://github.com/user-attachments/assets/2e93d042-f31a-4b75-bcc0-e5c63abf1cf9)
+![Betyg Grafiska verktyg för gränssnittsdesign gruppuppgift](https://github.com/user-attachments/assets/067db123-d18e-4069-9954-f93de8fd65db)
+
 
