@@ -1,3 +1,22 @@
+# Kurs: Grafiska verktyg
+
+## 📑 Table of Contents
+1. [Welcome to the World of Poison Dart Frogs](#-welcome-to-the-world-of-poison-dart-frogs)
+2. [Project overview](#-project-overview)
+   1. [The Story Behind the Name](#-the-story-behind-the-name)
+   2. [Demo](#-demo)
+   3. [Screenshots](#-screenshots)
+3. [Tech Stack](#-tech-stack)
+   1. [Tools](#tools)
+   2. [Installation](#️-installation)
+   3. [Our Work Process](#-our-work-process)
+   4. [Lighthouse analysis](#-lighthouse-analysis)
+5. [Authors](#-authors)
+6. [Credits](#-credits)
+8. [Grade](#grade)
+
+
+   
 # 🐸 Welcome to the World of Poison Dart Frogs 
 Welcome to our website about poison dart frogs! Here, you’ll get a glimpse into the colorful world of these small yet fascinating creatures. The site features both fun and interactive elements, such as a game where you can search for a hidden frog in the rainforest, as well as fun facts about poison dart frogs. Explore and learn more about these incredible animals in a fun and engaging way!
 
@@ -139,3 +158,7 @@ Coded by:
 
 ## 🤝 Credits
 This project was developed as part of the curriculum at [Medieinstitutet](https://medieinstitutet.se/) during our first year of studies.
+
+## ⭐️ Grade
+![Betyg Grafiska verktyg för gränssnittsdesign individuell uppgift](https://github.com/user-attachments/assets/2e93d042-f31a-4b75-bcc0-e5c63abf1cf9)
+
